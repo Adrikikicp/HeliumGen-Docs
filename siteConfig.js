@@ -1,9 +1,9 @@
 module.exports = {
 
-    $myColor: "red",
+
 
     "baseUrl": "https://docs.gen.vitraclient.ml",
-    "colors": $myColor,
+    "colors": "red",
     "copyright": " © 2022 Vitra Development, Inc.",
     "favicon": "favicon.ico",
     "headerIcon": "favicon.ico",
