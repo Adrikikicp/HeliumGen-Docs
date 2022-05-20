@@ -5,6 +5,8 @@
 
   "scripts":{
 
-    
+    "init": "docusaurus-start",
+    "build": "docusaurus-build",
+    "publish": "docusaurus-publish"
   }
 }
