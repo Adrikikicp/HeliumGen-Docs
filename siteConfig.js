@@ -1,6 +1,6 @@
 module.exports = {
 
-    $myColor: slateblue,
+    $myColor: "red",
 
     "baseUrl": "https://docs.gen.vitraclient.ml",
     "colors": $myColor,
