@@ -7,6 +7,7 @@
 
     "init": "docusaurus-start",
     "build": "docusaurus-build",
-    "publish": "docusaurus-publish"
+    "publish": "docusaurus-publish",
+    "test": "node a.js"
   }
 }
